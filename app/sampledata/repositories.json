@@ -1,0 +1,329 @@
+{
+  "data": [
+    {
+      "id": 520939615,
+      "name": "Aplicativo-de-exposicao_github",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Aplicativo-de-exposicao_github",
+      "description": "Aplicativo desenvolvido durante a exposição de bootcamp de seus servidores Santader mobile developer do github.",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 520271790,
+      "name": "App_Business_card",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/App_Business_card",
+      "description": "projeto do Santander Bootcamp mobile developer, que foi desenvolvido durante o Santander Bootcamp mobile developer",
+      "stargazers_count": 0,
+      "linguagem": "Kotlin"
+    },
+    {
+      "id": 489963400,
+      "name": "app_covid19",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/app_covid19",
+      "description": "Aplicativo mobile desenvolvido em Ionic ",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 518268597,
+      "name": "APP_futbol_feminino_bootcamp",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/APP_futbol_feminino_bootcamp",
+      "description": "Aplicativo desenvolvido para o desafio do bootcamp da Santander mobile",
+      "stargazers_count": 0,
+      "linguagem": "Java"
+    },
+    {
+      "id": 489974587,
+      "name": "covid19_apiclient",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/covid19_apiclient",
+      "description": "Minha contribuição para informar a população sobre os números sobre covid 19 no mundo.",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 488619969,
+      "name": "Desafios_DIO",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Desafios_DIO",
+      "description": "Todos os desafios dos bootcamp da DIO",
+      "stargazers_count": 0,
+      "linguagem": "JavaScript"
+    },
+    {
+      "id": 492488138,
+      "nome": "Diego-de-Souza",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Diego-de-Souza",
+      "descrição": "Meu perfil",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 489964841,
+      "nome": "diegoshakan",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/diegoshakan",
+      "descrição": null,
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 485336857,
+      "name": "dio-desafio-github-primeiro-repc",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/dio-desafio-github-primeiro-repc",
+      "description": "Desafio de Projeto sobre Git/Github",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 498870704,
+      "name": "Encurtador-de-URL",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Encurtador-de-URL",
+      "description": "Projeto de construção de um encurtador de URL",
+      "stargazers_count": 0,
+      "linguagem": "TypeScript"
+    },
+    {
+      "id": 510481914,
+      "name": "gdcaw_webpages",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/gdcaw_webpages",
+      "description": "página da web do gdcaw",
+      "stargazers_count": 0,
+      "linguagem": "HTML"
+    },
+    {
+      "id": 495201349,
+      "name": "Github-Interface-DIO",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Github-Interface-DIO",
+      "description": "Projeto desafio de interface da DIO para o Bootcamp da Spread",
+      "stargazers_count": 0,
+      "linguagem": "JavaScript"
+    },
+    {
+      "id": 468448551,
+      "nome": "Html-css",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Html-css",
+      "description": "curso de html5 e css3",
+      "stargazers_count": 0,
+      "linguagem": "HTML"
+    },
+    {
+      "id": 492912524,
+      "nome": "imakash3011",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/imakash3011",
+      "descrição": null,
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 468454387,
+      "nome": "javascript",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/javascript",
+      "descrição": "curso de javascript",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 483786268,
+      "name": "livro-receitas",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/livro-receitas",
+      "description": "Meu livro de receitas",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 519355830,
+      "name": "partidas_simulador_app",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/partidas_simulador_app",
+      "description": "Aplicativo simulador de partidas",
+      "stargazers_count": 0,
+      "linguagem": "Kotlin"
+    },
+    {
+      "id": 517758824,
+      "name": "Porjeto_impulsedeveloper",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Porjeto_impulsedeveloper",
+      "description": "Projeto da Impulse para DIO",
+      "stargazers_count": 0,
+      "linguagem": "TypeScript"
+    },
+    {
+      "id": 468462923,
+      "name": "projeto-android",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/projeto-android",
+      "description": "projeto andoid criado no curso em video",
+      "stargazers_count": 1,
+      "linguagem": "HTML"
+      },
+    {
+      "id": 469508172,
+      "name": "projeto-cordel",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/projeto-cordel",
+      "descrição": "Projeto do Cordel de Milton Duarte",
+      "stargazers_count": 0,
+      "linguagem": "HTML"
+    },
+    {
+      "id": 517776607,
+      "name": "projetoAPIshopping",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/projetoAPIshopping",
+      "description": "projeto API shopping para bootcamp impulso desenvolvedor da DIO",
+      "stargazers_count": 0,
+      "linguagem": "TypeScript"
+    },
+    {
+      "id": 489928285,
+      "name": "Projeto_Estacionamento",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Projeto_Estacionamento",
+      "description": "Projeto de desenvolvimento de uma página para estacionamento de castro de entrada e saída de veículos.",
+      "stargazers_count": 0,
+      "linguagem": "JavaScript"
+    },
+    {
+      "id": 487396438,
+      "name": "Projeto_Flexbox",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Projeto_Flexbox",
+      "description": "Projeto de uma página html com posicionamento de elementos com Flexbox em CSS",
+      "stargazers_count": 1,
+      "linguagem": "CSS"
+    },
+    {
+      "id": 490019203,
+      "name": "Site_cestasnobre",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Site_cestasnobre",
+      "description": "Primeiro site da cestas nobres",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 488033429,
+      "name": "Tela-Instagram-recriado",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/Tela-Instagram-recriado",
+      "description": "Recriação da tela de abertura do Instagram para projeto do Bootcamp na DIO",
+      "stargazers_count": 1,
+      "linguagem": "CSS"
+    },
+    {
+      "id": 520272474,
+      "nome": "tes",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/tes",
+      "descrição": "sd",
+      "stargazers_count": 0,
+      "linguagem": null
+    },
+    {
+      "id": 499314147,
+      "name": "url-shortener-dio",
+      "proprietário": {
+        "login": "Diego-de-Souza",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49752675?v=4"
+      },
+      "html_url": "https://github.com/Diego-de-Souza/url-shortener-dio",
+      "descrição": null,
+      "stargazers_count": 0,
+      "linguagem": null
+    }
+  ]
+
+}
